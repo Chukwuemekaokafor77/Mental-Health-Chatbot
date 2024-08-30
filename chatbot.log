@@ -1,0 +1,35 @@
+2024-08-30 15:34:05,659:WARNING: * Debugger is active!
+2024-08-30 15:34:05,716:INFO: * Debugger PIN: 601-712-688
+2024-08-30 15:38:37,824:INFO: * Detected change in 'C:\\courses_conestoga\\islam_programming\\mental_chatbot\\app.py', reloading
+2024-08-30 15:38:41,896:WARNING: * Debugger is active!
+2024-08-30 15:38:41,906:INFO: * Debugger PIN: 601-712-688
+2024-08-30 15:39:10,191:INFO:127.0.0.1 - - [30/Aug/2024 15:39:10] "GET / HTTP/1.1" 200 -
+2024-08-30 15:39:10,359:INFO:127.0.0.1 - - [30/Aug/2024 15:39:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-30 15:39:10,363:INFO:127.0.0.1 - - [30/Aug/2024 15:39:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-08-30 15:39:14,592:INFO:User input: hi
+2024-08-30 15:39:17,649:INFO:Bot response: Ola! How's everything going?
+2024-08-30 15:39:17,649:INFO:127.0.0.1 - - [30/Aug/2024 15:39:17] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:39:28,584:INFO:User input: i feel sad
+2024-08-30 15:39:28,603:INFO:Bot response: I'm here for you. Could you tell me why you're feeling this way?
+2024-08-30 15:39:28,604:INFO:127.0.0.1 - - [30/Aug/2024 15:39:28] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:39:56,814:INFO:User input: tell me about mental health
+2024-08-30 15:39:56,833:INFO:Bot response: Sure, I'd be happy to share what I know about mental health.
+2024-08-30 15:39:56,833:INFO:127.0.0.1 - - [30/Aug/2024 15:39:56] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:40:05,801:INFO:User input: procced
+2024-08-30 15:40:05,823:INFO:Bot response: Cool! What's on your mind?
+2024-08-30 15:40:05,824:INFO:127.0.0.1 - - [30/Aug/2024 15:40:05] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:40:57,553:INFO:User input: i will like to know what causes problems relating to metal health
+2024-08-30 15:40:57,581:INFO:Bot response: I am here to provide guidance on anxiety and depression, answer questions about mental health, and engage in supportive conversations. However, please remember that I am not a replacement for professional therapy. If you need more comprehensive assistance, I recommend consulting with a mental health professional.
+2024-08-30 15:40:57,581:INFO:127.0.0.1 - - [30/Aug/2024 15:40:57] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:41:40,229:INFO:User input: tell me anxiety and depression
+2024-08-30 15:41:40,256:INFO:Bot response: Feeling anxious is normal. What's been going on in your world?
+2024-08-30 15:41:40,256:INFO:127.0.0.1 - - [30/Aug/2024 15:41:40] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:44:15,950:INFO:User input: i feel stressed and it is affecting my daily life
+2024-08-30 15:44:15,980:INFO:Bot response: Engaging in mindfulness practices, such as mindful eating or mindful walking, can help bring awareness to the present moment.
+2024-08-30 15:44:15,980:INFO:127.0.0.1 - - [30/Aug/2024 15:44:15] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:45:07,956:INFO:User input: cant seem to relax
+2024-08-30 15:45:07,975:INFO:Bot response: Are there any activities or hobbies that usually help you relax? Maybe try one of those.
+2024-08-30 15:45:07,975:INFO:127.0.0.1 - - [30/Aug/2024 15:45:07] "POST /get_response HTTP/1.1" 200 -
+2024-08-30 15:46:03,919:INFO:User input: i am unable to concentrate while reading
+2024-08-30 15:46:03,936:INFO:Bot response: Tell me more
+2024-08-30 15:46:03,936:INFO:127.0.0.1 - - [30/Aug/2024 15:46:03] "POST /get_response HTTP/1.1" 200 -
